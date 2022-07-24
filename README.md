@@ -5,8 +5,11 @@
 
 I did it with basic concepts of HTML and CSS for the FreeCodeCamp Legacy Responsive Web Design certificate.
 
-With this code you can do whatever you want but if you give me a little credit I would appreciate it.
 
+
+
+
+With this code you can do whatever you want but if you give me a little credit I would appreciate it.
 Send me an email if you do any modifications, or if it was useful, or whatever you want to say to me.
 
 Luciosianca@gmail.com
