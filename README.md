@@ -13,7 +13,7 @@ Luciosianca@gmail.com
 
 Hope this can help you!
 
-  ![Image text](https://github.com/LucioSianca/Squid-game/blob/main/Image/Image.png)
+  ![Image text](https://github.com/LucioSianca/Build-a-Tribute-Page-FCC/blob/main/Notch.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
