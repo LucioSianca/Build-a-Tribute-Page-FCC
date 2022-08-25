@@ -6,7 +6,6 @@
 I did it with basic concepts of HTML and CSS for the FreeCodeCamp Legacy Responsive Web Design certificate.
 
 
-https://luciosianca.github.io/Build-a-Tribute-Page-FCC/
 
 
 With this code you can do whatever you want but if you give me a little credit I would appreciate it.
@@ -16,6 +15,7 @@ Luciosianca@gmail.com
 
 Hope this can help you!
 
+https://luciosianca.github.io/Build-a-Tribute-Page-FCC/
   ![Image text](https://github.com/LucioSianca/Build-a-Tribute-Page-FCC/blob/main/Notch.png)
 
 <h3 align="left">Connect with me:</h3>
